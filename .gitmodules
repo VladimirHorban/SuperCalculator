@@ -1,0 +1,3 @@
+[submodule "VerySmartPointer"]
+	path = VerySmartPointer
+	url = https://github.com/VladimirHorban/VerySmartPointer.git
